@@ -1,0 +1,13 @@
+.nav_list{
+    color: #000000;
+    font-size: 20px;
+}
+.nav_li:hover{
+    color: #000000;
+    text-decoration: none;
+    list-style: none;
+}
+.input{
+    width: 500px;
+    margin: 20px;
+}
